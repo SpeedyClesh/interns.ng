@@ -1,0 +1,82 @@
+.nav{
+  height:50px;
+}
+.navbar-brand{
+  margin: 0px;
+  padding:2px;
+}
+#myNavbar{
+  padding-top: 12px;
+}
+#myNavbar #nav-ul #ul-li a{
+  color: #3385ff;
+  font-weight: bold;
+}
+#si, #li{
+  border: 1px solid #3385ff;
+  margin: 12px;
+  padding: 2px 15px;
+  border-radius: 20px;
+}
+body{
+background-color:  #d9d9d9
+}
+#face{
+background-image: url('images/ab.png');
+background-repeat: no-repeat;
+background-position: top;
+background-size:cover;
+width:100%;
+height: 700px;
+margin: 0px;
+}
+#categories{
+position:relative;
+margin: 0 auto;
+padding:300px 50px;
+}
+#categories h2,#categories input, #categories button {
+position:relative;
+border-radius: 0px;
+ }
+#categories h2{
+  color: white;
+}
+#cats{
+position:relative;
+margin: 20px auto;
+padding: 20px 5px;
+width:100%;
+background-color:  #d9d9d9
+}
+.row div{
+margin:0px;
+padding:0px;
+font-weight: bold;
+font-size: 15px
+}
+#cat-btn{
+padding: 10px 50px;
+margin-top: 50px; 
+color: white;
+font-weight: bold;
+font-size: 25px;
+}
+
+#footer{
+background-color:#00001a;
+color: white;
+}
+#fdiv{
+margin:0px;
+padding:10px;
+}
+
+
+
+
+
+
+
+
+
